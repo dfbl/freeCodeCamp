@@ -66,8 +66,8 @@ A one-to-many relationship is one record linked to many other records, the examp
 This is just a brief intro into relational-databases. Below links are provided to resources that could help you further study the subject.
 
 #### More Information:
-* Relational databases on <a href='https://en.wikipedia.org/wiki/Relational_database' target='_blank' rel='nofollow'>wikipedia</a>
-* One-to-many on <a href='https://en.wikipedia.org/wiki/One-to-many_(data_model' target='_blank' rel='nofollow'>wikipedia</a>)
-* Many-to-many on <a href='https://en.wikipedia.org/wiki/Many-to-many_(data_model' target='_blank' rel='nofollow'>wikipedia</a>)
-* One-to-one on <a href='https://en.wikipedia.org/wiki/One-to-one_(data_model' target='_blank' rel='nofollow'>wikipedia</a>)
-* Relationship model on <a href='https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model' target='_blank' rel='nofollow'>wikipedia</a>
+* Relational databases on <a href='https://en.wikipedia.org/wiki/Relational_database' target='_blank' rel='nofollow'>Wikipedia</a>
+* One-to-many on <a href='https://en.wikipedia.org/wiki/One-to-many_(data_model' target='_blank' rel='nofollow'>Wikipedia</a>
+* Many-to-many on <a href='https://en.wikipedia.org/wiki/Many-to-many_(data_model' target='_blank' rel='nofollow'>Wikipedia</a>
+* One-to-one on <a href='https://en.wikipedia.org/wiki/One-to-one_(data_model' target='_blank' rel='nofollow'>Wikipedia</a>
+* Relationship model on <a href='https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model' target='_blank' rel='nofollow'>Wikipedia</a>
