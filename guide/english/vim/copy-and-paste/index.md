@@ -36,3 +36,5 @@ In normal mode:
 - `gP` pastes before the cursor and moves the cursor to the end of the paste
 
 In insert mode type `Ctrl-r` to paste and then type a register, normally `"`, this will paste from that register where the cursor is and move the cursor to after the paste.
+
+Pasting from the computer clipboard, which is anything you `ctrl + c` outside of the Vim view, all you would type is `shift + ctrl + V` into Vim.
