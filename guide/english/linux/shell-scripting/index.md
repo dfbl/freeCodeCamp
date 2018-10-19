@@ -22,7 +22,7 @@ $ echo "#!/bin/bash" > myscript.sh
 $ your-desired-editor myscript.sh
 # write at the first line #!/bin/bash
 ```
-3) Add some comands:
+3) Add some commands:
 ```bash
 $ echo "echo Hello World!" >> myscript.sh
 ```
@@ -35,5 +35,18 @@ $ chmod +x myscript.sh
 $ ./myscript.sh
 Hello World!
 ```
+
+## Passing variables from the command line
+
+Oftentimes, you will need to use variables from the command line in your shell-script. For example, if you needed to do something with a file, but the file would change every time you ran your shell-script. In order to pass variables from the command line, $1 must be used in the script file, and so on down the number line. An example of a script like this is below:
+```#!/bin/bash
+# A simple copy script
+cp $1 $2
+```
+Then, when running this script in the command line in order to copy a file, it would look like this:
+```
+$ myscript.sh foo.txt bar.txt
+```
+foo.txt will be read as $1 and bar.txt as $2 in the script.
 
 More info about shell-scripting can be found [here](https://www.shellscript.sh/)
